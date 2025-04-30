@@ -1,0 +1,6 @@
+[submodule "Desktopgit_Practice"]
+	path = Desktopgit_Practice
+	url = https://github.com/ShravyaAlual06/git_Practice.git
+[submodule "Desktopfolder"]
+	path = Desktopfolder
+	url = https://github.com/ShravyaAlual06/git_Practice.git
